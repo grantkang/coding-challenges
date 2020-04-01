@@ -1,3 +1,5 @@
+Link: https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32
+
 Given an array of strings, return another array containing all of its longest strings.
 
 Example
